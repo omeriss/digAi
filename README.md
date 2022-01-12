@@ -10,3 +10,9 @@ The neural network learnes using data from the MNIST DATABASE (http://yann.lecun
 In order for the nn to learn from the data I use Backpropagation algorithm.
 more Info about neural network for digit recognition and Backpropagation that I used In order to make this project:
 https://www.3blue1brown.com/topics/neural-networks
+# Short video from the project
+
+
+
+https://user-images.githubusercontent.com/94307825/149230989-03dbd394-e914-43a3-9ff3-29855f4b2627.mp4
+
